@@ -1,0 +1,15 @@
+
+#+SETUPFILE: https://raw.githubusercontent.com/fniessen/org-html-themes/master/org/theme-readtheorg.setup
+#+SETUPFILE: https://raw.githubusercontent.com/anshustov/template/master/article.org
+#+STARTUP: content
+
+#+TITLE:     Emacs init
+#+AUTHOR:    Алексей Шустов
+#+EMAIL:     anshustov@gmail.com
+#+DATE:      2020
+
+
+
+* Описание
+
+Минимальная настройка для редактирования одиночных файлов.
