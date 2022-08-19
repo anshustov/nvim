@@ -3,10 +3,10 @@
 #+SETUPFILE: https://raw.githubusercontent.com/anshustov/template/master/article.org
 #+STARTUP: content
 
-#+TITLE:     Emacs init
+#+TITLE:     NeoVim
 #+AUTHOR:    Алексей Шустов
 #+EMAIL:     anshustov@gmail.com
-#+DATE:      2020
+#+DATE:      2022
 
 
 
